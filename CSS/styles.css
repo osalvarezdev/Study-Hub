@@ -1,0 +1,96 @@
+body {
+    width: 100%;
+    margin: 0;
+}
+
+#title, #description {
+    text-align:center;
+}
+
+p {
+    width: unset;
+    margin: 0.5em auto 0.5em;
+}
+
+#design {
+    width: 80%;
+    margin: auto;
+    max-width: 500px;
+    min-width: 300px;
+}
+
+ol {
+    margin: auto;
+    text-align: center;
+}
+
+#explain {
+    margin: auto;
+    text-align: center;
+    
+}
+img {
+    margin: auto;
+}
+
+#arknights {
+    width: 50%;
+    width: 250px;
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#games {
+    width: 32%;
+    margin:auto;
+    display: inline-block;
+    
+}
+
+#reading {
+    display: inline-block;
+    width: 32%;
+    margin:auto;
+    
+}
+
+#asahi {
+    width: 50%;
+    width: 250px;
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#watching {
+    display: inline-block;
+    margin: auto;
+    width: 32%;
+    
+    
+}
+
+#tamako {
+    width: 50%;
+    width: 250px;
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#center {
+    padding: 2em;
+}
+table {
+    width: 80%;
+    margin: auto;
+    border: 1px dashed black;
+}
+
+th, td {
+    margin: auto;
+    border: 1px solid black;
+}
